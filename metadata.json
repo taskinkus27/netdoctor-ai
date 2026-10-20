@@ -1,0 +1,6 @@
+{
+  "name": "NetDoctor - Akıllı Ağ & Wi-Fi Teşhis Aracı",
+  "description": "Wi-Fi sinyali, modem/gateway, DNS ve ISP omurga bağlantılarını test eden, arıza kaynağını saniyeler içinde teşhis edip ISP kanıt raporları üreten akıllı ağ problem çözücü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
